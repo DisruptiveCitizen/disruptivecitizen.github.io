@@ -1,7 +1,9 @@
 .logo {
-	text-align: center;
+	margin: 0 auto;
 }
 
 .title {
-	text-align: center;
+	margin: 0 auto;
+	padding-top: 20px;
+	font-size: 2em;
 }
