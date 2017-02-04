@@ -1,5 +1,4 @@
-.flexed {
-	display: flex;
-	align-items: center;
+.centered {
 	margin: auto;
+	width: auto;
 }
